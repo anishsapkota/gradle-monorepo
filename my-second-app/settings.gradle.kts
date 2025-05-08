@@ -1,3 +1,3 @@
 rootProject.name = "my-second-app"
 
-include("app")
+include("second-app")
